@@ -1,9 +1,14 @@
-## <div align="center"> ♠️♠️ Currently Under Construction ♠️♠️ </div>                                                     
+## <div align="center"> 🎧 👔 Welcome 🎧 👔 </div>                                                     
 
    </div>
      <div align="center"> 
-<img src="https://github.com/bayareaunicorn/bayareaunicorn/blob/main/assets/terminal.gif">
-</div>
+<b><i> <div> Current Projects:<br/>
+<ul>Create-React-App-All
+Tunester 
+Openwebnxt
+YouGotMusic
+BeSomeBodyOnline
+</ul></div>
 
 <div align="center">
 
